@@ -1,3 +1,3 @@
-Dirección del contrato: 0xCa728cB2128f67F96B9E4E106DB932fDcB71f1Bc
+Dirección del contrato: 0x5223E82CdD41BcDdEbD4358dAD600208d2ccaaf0
 
-Dirección de Etherscan: https://sepolia.etherscan.io/address/0xCa728cB2128f67F96B9E4E106DB932fDcB71f1Bc#readContract
+Dirección de Etherscan: https://sepolia.etherscan.io/address/0x5223E82CdD41BcDdEbD4358dAD600208d2ccaaf0#readContract
